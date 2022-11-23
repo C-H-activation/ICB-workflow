@@ -13,7 +13,7 @@ For the system with `ID = 1` the total computation time was 8 minutes and 45 sec
 
 ## Run a SoBo prediction
 
-After creating a proper Python virtual environment and installing the SoBo model, predictions are obtained as follows, where <SMILES> represents the SMILES string and <NAME> represents the directory in which the predictions will be placed.
+After creating a proper Python virtual environment and installing the SoBo model, predictions are obtained as follows, where `SMILES` represents the SMILES string and `NAME` represents the directory in which the predictions will be placed.
 
 ```bash
 > sobo --smiles <SMILES> --name <NAME>
