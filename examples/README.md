@@ -1,0 +1,25 @@
+# Examples from the manuscript
+
+In order to examplify the application of the SoBo model, we take examples as shown in the manuscript (Fig. 5) and run those compounds with the current implementation:
+
+| MS ID | SMILES                                          |
+| ----- | ----------------------------------------------- |
+| 1     | CSc1nc(ccc1C#N)c2ccc(Cl)cc2                     |
+| 2     | COc1cc(NC(c2c[n]c(F)cc2)=O)ccc1                 |
+| 3     | Cc1cc(Nc2ccn(n2)c3ccccc3)cc(C)c1OC(=O)OC(C)(C)C |
+
+Results of predictions are given as `csv` and `svg` files.
+
+## Run a SoBo prediction
+
+After creating a proper Python virtual environment and installing the SoBo model, predictions are obtained as follows, where <SMILES> represents the SMILES string and <NAME> represents the directory in which the predictions will be placed.
+
+```bash
+> sobo --smiles <SMILES> --name <NAME>
+```
+
+In order to see all possible command-line flags run:
+
+```bash
+> sobo --help
+```
