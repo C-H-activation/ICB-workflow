@@ -2,13 +2,14 @@
 
 In order to examplify the application of the SoBo model, we take examples as shown in the manuscript (Fig. 5) and run those compounds with the current implementation:
 
-| MS ID | SMILES                                          |
-| ----- | ----------------------------------------------- |
-| 1     | CSc1nc(ccc1C#N)c2ccc(Cl)cc2                     |
-| 2     | COc1cc(NC(c2c[n]c(F)cc2)=O)ccc1                 |
-| 3     | Cc1cc(Nc2ccn(n2)c3ccccc3)cc(C)c1OC(=O)OC(C)(C)C |
+| ID  | SMILES                                          |
+| --- | ----------------------------------------------- |
+| 1   | CSc1nc(ccc1C#N)c2ccc(Cl)cc2                     |
+| 2   | COc1cc(NC(c2c[n]c(F)cc2)=O)ccc1                 |
+| 3   | Cc1cc(Nc2ccn(n2)c3ccccc3)cc(C)c1OC(=O)OC(C)(C)C |
 
 Results of predictions are given as `csv` and `svg` files.
+For the system with `ID = 1` the total computation time was 8 minutes and 45 seconds on a standard laptop (Macbook Pro 1,4 GHz Quad-Core Intel Core i5, 16GB RAM).
 
 ## Run a SoBo prediction
 
