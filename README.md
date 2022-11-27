@@ -42,4 +42,4 @@ Several examples are available with expected output inside the `examples` direct
 
 # Acknowledgements
 
-Johan Westin restructured the package structure of the SoBo method, which has been adapted for the purpose of creating a PyPi package.
+Johan Westin restructured the package structure of the SoBo method, which has been adapted for the purpose of creating a [PyPi package](https://pypi.org/project/sobo/).
