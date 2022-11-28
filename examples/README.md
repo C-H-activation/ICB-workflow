@@ -1,6 +1,6 @@
 # Examples from the manuscript
 
-In order to examplify the application of the SoBo model, we take examples as shown in the manuscript (Fig. 5) and run those compounds with the current implementation:
+In order to examplify the application of the SoBo model, we take examples as shown in the [manuscript](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6362ce5aaca1981770efe240/original/a-hybrid-machine-learning-approach-to-predict-the-iridium-catalyzed-borylation-of-c-h-bonds.pdf) (Fig. 5) and run those compounds with the current implementation:
 
 | ID  | SMILES                                             |
 | --- | -------------------------------------------------- |
