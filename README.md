@@ -40,6 +40,21 @@ Then install the SoBo (0.2.0) method via pip
 The typical installation time on a standard desktop computer is in the range of minutes.
 Several examples are available with expected output inside the `examples` directory.
 
+# Run predictions
+
+Once the model is setup (check reference outputs in [examples](/examples)) you can perform predictions by entering a [SMILES](https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html) string and a name for the system of interest.
+
+```bash
+> sobo --smiles <SMILES> --name <NAME>
+```
+
+You can get additional information via
+
+```bash
+> sobo --help
+```
+
+
 # Acknowledgements
 
 Johan Westin restructured the package structure of the SoBo method, which has been adapted for the purpose of creating a [PyPi package](https://pypi.org/project/sobo/).
