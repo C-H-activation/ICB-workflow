@@ -58,3 +58,22 @@ You can get additional information via
 # Acknowledgements
 
 Johan Westin restructured the package structure of the SoBo method, which has been adapted for the purpose of creating a [PyPi package](https://pypi.org/project/sobo/).
+
+Reference
+---------
+
+If you want to apply or reference this work please always cite:
+
+Caldeweyher, Eike and Elkin, Masha and Gheibi, Golsa and Johansson, Magnus and Sköld, Christian and Norrby, Per-Ola and Hartwig, John F., J. Am. Chem. Soc, *2023*. DOI: [10.1021/jacs.3c04986](https://doi.org/10.1021/jacs.3c04986)
+
+```
+@article{doi:10.1021/jacs.3c04986,
+author = {Caldeweyher, E. and Elkin, M. and Gheibi, G. and Johansson, M. J. and Sköld, C. and Norrby, P-O and Hartwig, J. F.},
+title = {Hybrid Machine Learning Approach to Predict the Site Selectivity of Iridium-Catalyzed Arene Borylation},
+journal = {J. Am. Chem. Soc.},
+year = {2023},
+doi = {10.1021/jacs.3c04986},
+}
+```
+
+
