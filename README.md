@@ -1,7 +1,7 @@
 # Introduction
 
 This repository includes an open-source implementation of the Site of Borylation (SoBo) model that predicts the regioselectivity for the iridium-catalyzed borylation.
-The manuscript is currently only available on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6362ce5aaca1981770efe240).
+The manuscript is available on [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6362ce5aaca1981770efe240) and [JACS](https://doi.org/10.1021/jacs.3c04986).
 
 # Environment setup
 
